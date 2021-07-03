@@ -1,0 +1,11 @@
+This is an example to show how to open a file and read.
+This is the second line of the text.This text has to be append as the endThis text has to be append as the endThis text has to be append as the end{
+    "name": "Asabeneh",
+    "country": "Finland",
+    "city": "Helsinki",
+    "skills": [
+        "JavaScrip",
+        "React",
+        "Python"
+    ]
+}
